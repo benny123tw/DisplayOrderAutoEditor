@@ -1,0 +1,16 @@
+{
+  "name": "moduleinfo-order",
+  "version": "1.0.0",
+  "description": "easy edit moduleinfo.json display order using csv and json converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benny Yen",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.15.4",
+    "excel": "^1.0.1",
+    "fs": "*"
+  }
+}
